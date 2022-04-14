@@ -4,9 +4,9 @@ public class App {
     
     public static void main(String[] args) {
      
-        Queen queen = new Queen();
-        Worker worker = new Worker();
-        Drone drone = new Drone();
+        HoneyBee queen = new Queen();
+        HoneyBee worker = new Worker();
+        HoneyBee drone = new Drone();
 
         output(queen.doYourJob());
         output(worker.doYourJob());
@@ -24,7 +24,8 @@ public class App {
         System.out.println(outputStr);
         
 
-        
+        HoneyBee bee 
+
 
 
 
